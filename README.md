@@ -2,9 +2,9 @@
 
 ## Projeto prático cole do twitter feito através do curso de CSS Flexbox [Rocketseat](https://rocketseat.com.br/)
 
-## Deploy do Projeto: [Clone Twitter](https://marcelo-rafael.github.io/clone-twitter)
+## Deploy do Projeto: [Clone Twitter](https://clone-twitter-seven.vercel.app/)
 
-<img src="lescone.gif" alt="lescone Demo" width="600"/> 
+<img src="clone-twitter.png" alt="Clone Twitter" width="600"/> 
 
 ## Technologies
 
